@@ -16,7 +16,7 @@
 ## Настройка бота
 - [Создайте бота у Botfather](https://core.telegram.org/bots#6-botfather)
 ### Создание функции в Яндекс.Облаке
-- [Перейдите в консоль Яндекс.Облака](https://core.telegram.org/bots#6-botfather)
+- [Перейдите в консоль Яндекс.Облака](https://console.cloud.yandex.ru/)
 - Создайте платёжный профиль и облако
 - В меню слева выберите Cloud Functions
 - Создайте функцию
